@@ -1,2 +1,4 @@
-package PACKAGE_NAME;public interface Velocidade {
+public interface Velocidade {
+    float  getVelocidade();
+    float setVelocidade(float velocidade);
 }
